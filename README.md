@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" style="width:100%; height:280px; object-fit:cover; object-position:center;" alt="CCDS-Strategic-Banner" />
+  <img src="./assets/banner.png" width="100%" alt="CCDS-Strategic-Banner" />
 
   # China Combat Decision System (CCDS)
   ### 顶级实战决策引擎 | The Sovereign Strategy Hub
