@@ -1,42 +1,54 @@
 # CCDS (China Combat Decision System) v2.0
-## 中国实战决策系统：全场景通用算法矩阵
+## The Sovereign Strategy Hub | 顶级实战决策引擎
 
-[![Status](https://img.shields.io/badge/Status-v2.0--Alpha-red.svg)](https://github.com/42kyx28zkf-ai/China-Combat-Decision-System)
-[![Versatile](https://img.shields.io/badge/Scope-Universal-blue.svg)](https://github.com/42kyx28zkf-ai/China-Combat-Decision-System)
-[![Prestige](https://img.shields.io/badge/Style-Industrial--Minimalism-black.svg)](https://github.com/42kyx28zkf-ai/China-Combat-Decision-System)
+<p align="center">
+  <img src="./assets/logo.png" width="200" alt="CCDS Logo">
+</p>
 
-> **“不仅是 AI 的指挥官，更是现实世界的操盘手。”**
-
-CCDS v2.0 是一套经过中国近代高难度历史博弈验证、去背景化的顶级决策算法框架。它将复杂的政治/军事智慧转化为控制论与系统工程视角的 **SOP (标准化作业程序)**，旨在解决人类与 AI 在处理非线性、高压力、信息不对称环境下的决策失效问题。
+<p align="center">
+  <b>“实事求是，以顶级决策制胜。”</b><br>
+  <i>Seek truth from facts, win by high-stakes decisions.</i>
+</p>
 
 ---
 
-### 🏮 核心协议矩阵 (Core Protocol Matrix)
+### 🏛️ 战略血统：领袖级架构协议 (The Architect Suite)
 
-| 模块 | 核心能力 | 决策协议 (SOP) |
+CCDS v2.0 拒绝平庸。我们将中国近代史上难度最高、赌注最大的决策现场进行了“去背景化”解构，提炼出以下三大核心方法论引擎：
+
+#### 🏮 [Mao-01] 主要矛盾锁定协议 (Maoist Dialectics Engine)
+- **底层架构**：基于**《寻乌调查》**的高保真信息采集与矛盾识别算法。
+- **实战价值**：当你的项目陷入“死循环”或人生处于“乱局”时，该协议强制剥离 90% 的低价值变量，助你像**毛泽东**一样，在迷雾中精准识别那 1% 决定生死的**主要矛盾**。
+
+#### 🐈 [Deng-02] 不对称风险对冲算法 (Dengist Pragmatic Skeleton)
+- **底层架构**：基于**“摸着石头过河”**的分布式试错与动态对冲逻辑。
+- **实战价值**：专为“深水区”改革与高风险创业设计。它强制你建立**失败红线**与**试点防火墙**。正如**邓小平**所言“不管是黑猫白猫，捉到老鼠就是好猫”，一切以物理世界的 ROI（投资回报率）为最终裁决准则。
+
+#### 🤝 [Zhou-03] 利益对齐与动态平衡协议 (Zhou-Enlai Coordination Logic)
+- **底层架构**：基于**“统一战线”**的最大公约数博弈算法。
+- **实战价值**：解决高压环境下的多方博弈与组织内耗。它封装了**周恩来**式的协调艺术，提供“不卑不亢、不即不离”的参数设定，帮你在对立利益中提取最强公约数，构建稳如磐石的执行同盟。
+
+---
+
+### 🚀 核心应用场景 (Actionable Interventions)
+
+-   **🎯 战略审计**：将你的商业模式/项目架构投入“毛氏主要矛盾”模型，扫描致命盲点。
+-   **📈 风险管理**：调用“邓氏试错逻辑”，为高风险决策加装“摸石头”式的负反馈熔断器。
+-   **🤖 AI 灵魂训练**：将领袖级的决策权重植入 AI Agent，使其具备穿透虚假信息、直达事物本质的统帅级审计力。
+-   **💡 个人自我革命**：用伟人的复盘逻辑（模块 05）对自己的人生进行“败战复盘”，彻底断绝路径依赖。
+
+---
+
+### ⚓ 开发者接入 (Core Protocol Matrix)
+| 模块 | 协议类型 | 文档链接 |
 | :--- | :--- | :--- |
-| **01. 深度调查** | 穿透信息迷雾，提取最底层物理数据 | [点击查阅](./protocols/v2/01_INVESTIGATION.md) |
-| **02. 灰度试错** | 不对称风险对冲，踩稳再迈步 | [点击查阅](./protocols/v2/02_TRIAL_REFORM.md) |
-| **03. 动态平衡** | 多方博弈协调，利益对齐协议 | [点击查阅](./protocols/v2/03_COORDINATION.md) |
-| **04. 逆境突围** | 极限承压下的权重重置与断臂求生 | [点击查阅](./protocols/v2/04_ADVERSITY_WEIGHTS.md) |
-| **05. 熔断纠错** | 瞬间止损与“败战复盘”算法 | [点击查阅](./protocols/v2/05_ERROR_CORRECTION.md) |
+| **01 调查** | 高保真信息采集 | [DOC][./protocols/v2/01_INVESTIGATION.md] |
+| **02 试错** | 不对称风险对冲 | [DOC][./protocols/v2/02_TRIAL_REFORM.md] |
+| **03 平衡** | 多方博弈协调 | [DOC][./protocols/v2/03_COORDINATION.md] |
+| **04 权重** | 逆境系统重置 | [DOC][./protocols/v2/04_ADVERSITY_WEIGHTS.md] |
+| **05 熔断** | 败战复盘纠错 | [DOC][./protocols/v2/05_ERROR_CORRECTION.md] |
 
 ---
 
-### 🏗️ 系统思想底座 (The Lineage)
-
-CCDS 的算法逻辑源于被历史证明行之有效的两大工程哲学：
-1.  **战略辩证法**：锁定主要矛盾，动态调整资源分配权重。
-2.  **实务工程论**：实事求是，以物理世界的实时反馈驱动系统演进。
-
-### 🛠️ AI Agent 接入 (MCP)
-本项目支持通过 MCP (Model Context Protocol) 协议供 AI 智能体调用。
-- `strategic_command_audit`: 启动战略审计，识别主要矛盾。
-- `operational_base_optimize`: 启动执行优化，基于试错逻辑对路。
-
----
-
-[快速开始教程](./TUTORIAL.md) | [实战案例推演](./docs/CASES.md) | [v2 愿景宣言](./VISION_V2.md)
-
-**“实事求是，以顶级决策制胜。”**
-*Seek truth from facts, win by high-stakes decisions.*
+**CCDS：不仅是工具，更是一个时代的智慧底座。**
+**Join the elite strategic command.**
