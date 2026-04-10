@@ -1,69 +1,81 @@
-# Mao-Decision-Engine
-# 毛氏决策引擎
+<div align="center">
+  <img src="./assets/logo.png" width="200" alt="Mao-Decision-Engine-Logo" />
 
-> **"A single spark can start a prairie fire."**  
-> **"星星之火，可以燎原。"**
+  # Mao-Decision-Engine (毛氏决策引擎)
 
----
+  **"The Strategic Soul & Engineering Skeleton for the Agentic Era."**
 
-## 🚩 What is it? / 这是什么？
-**Mao-Decision-Engine** is a high-level strategic orchestration framework for AI Agents. It transforms decades of proven dialectical leadership and pragmatic engineering methodology into a computational protocol. 
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
+  [![MCP Supported](https://img.shields.io/badge/MCP-Compatible-orange.svg)](https://github.com/mcp)
+  [![Strategic Scale](https://img.shields.io/badge/Strategy-High%20Resolution-red.svg)](#)
 
-**毛氏决策引擎**是一个面向 AI Agent 的高级战略编排框架。它将经过数十年实战检验的辩证法统帅智慧与务实工程方法论，转化为可直接调用的计算协议。
-
-In an era of agentic chaos, this engine provides the **Strategic Soul** (Maoism) and the **Engineering Skeleton** (Dengism) to ensure your AI doesn't just "think"—it **DOMINATES**.
-
-在 Agent 乱战的时代，本引擎提供了**战略之魂**（教员思想）与**工程之骨**（设计师思想），确保您的 AI 不仅仅是在“思考”，而是在“统治”。
+  [English](#) | [简体中文](#) | [日本語](#) | [한국어](#)
+</div>
 
 ---
 
-## 🚀 Core Features / 核心功能
+## 🚩 Overview / 概览
 
-### 1. Strategic Domination (Mao-Module)
-### 1. 战略统治 (教员模块)
-- **PCDR (Principal Contradiction)**: Automatically identify the single chokepoint in complex systems.
-- **ALPA (Asymmetric Pressure)**: Focus 300% resources on the critical node to ensure total victory.
-- **Dark Side Guard**: Built-in protocols against Adventurism (Over-reaching) and Conservatism (Fear).
+**Mao-Decision-Engine** is a high-level strategic orchestration framework for AI Agents. In an era of agentic chaos, this engine provides the **Strategic Soul** (Dialectical Strategy) and the **Engineering Skeleton** (Pragmatic Execution) to ensure your AI doesn't just "think"—it **DOMINATES**.
 
-### 2. Pragmatic Evolution (Deng-Module)
-### 2. 务实演进 (设计师模块)
-- **CAT_OPTIMIZE**: ROI-first decision logic. If it catches the mouse, it's a good cat.
-- **STONE_PROTOTYPE**: Systematic "Pilot-Expansion-Rollout" algorithm for zero-risk deployment.
+**毛氏决策引擎**是一个面向 AI Agent 的高级战略编排框架。它将辩证法统帅智慧与务实工程方法论转化为计算协议，为 AI 提供“战略之魂”与“工程之骨”，确保其在复杂博弈中不仅是思考，更是统治。
 
 ---
 
-## 🛠 Usage / 使用方法
+## 🚀 Core Modules / 核心模块
 
-### MCP Integration (Plug-and-Play)
-### MCP 接入 (即插即用)
+### 🏮 1. Strategic Domination (Mao-Module)
+*   **PCDR (Principal Contradiction)**: Automatically identify the single chokepoint in complex systems.
+*   **ALPA (Asymmetric Pressure)**: Focus 300% resources on the critical node to ensure total victory.
+*   **Dark Side Guard**: Built-in protocols against Adventurism and Conservatism.
+
+### 🏗️ 2. Pragmatic Evolution (Deng-Module)
+*   **CAT_OPTIMIZE**: ROI-first decision logic. Result-oriented execution.
+*   *STONE_PROTOTYPE**: Systematic "Pilot-Expansion-Rollout" algorithm for safe deployment.
+
+---
+
+## 🛠 Usage / 使用方法 (MCP Integration)
+
 This repository is designed to be used as an **MCP (Model Context Protocol) Server**. 
 
-1. Clone the repo: `git clone https://github.com/42kyx28zkf-ai/Mao-Decision-Engine`
-2. Configure your Claude Desktop or Cursor:
-```json
-{
-  "mcpServers": {
-    "maoist-engine": {
-      "command": "python",
-      "args": ["/path/to/mcp/server.py"]
-    }
-  }
-}
-```
-3. Ask your AI: *"What is the Principal Contradiction in this codebase?"*
+1. **Clone & Setup**:
+   ```bash
+   git clone https://github.com/42kyx28zkf-ai/Mao-Decision-Engine
+   cd Mao-Decision-Engine
+   pip install -r requirements.txt
+   ```
+
+2. **Configure (Claude/Cursor)**:
+   Add this to your configuration file:
+   ```json
+   {
+     "mcpServers": {
+       "maoist-engine": {
+         "command": "python3",
+         "args": ["/绝对路径/to/Mao-Decision-Engine/mcp/server.py"]
+       }
+     }
+   }
+   ```
 
 ---
 
-## 📖 Protocols / 核心协议
-- [MAO_STRATEGY.md](./protocols/MAO_STRATEGY.md): Dialectical War & Peace.
-- [DENG_PRAGMATISM.md](./protocols/DENG_PRAGMATISM.md): Engineering & Prosperity.
+## 📈 Roadmap / 路线图
+- [x] V1.0: Core Strategy & Pragmatism Protocols
+- [x] V1.1: MCP Server Implementation
+- [ ] V2.0: Multi-Agent Confrontation Layer (Coming Soon)
+- [ ] V2.1: Dialectical Reasoning Graph Visualization
 
 ---
 
 ## ⚖️ License / 许可证
-Licensed under the **Apache License 2.0**.  
-See the [LICENSE](LICENSE) file for more details.
+Licensed under the **Apache License 2.0**. 
 
 ---
-**"Be resolute, fear no sacrifice and surmount every difficulty to win victory."**  
-**“下定决心，不怕牺牲，排除万难，去争取胜利。”**
+
+<div align="center">
+  <b>"Be resolute, fear no sacrifice and surmount every difficulty to win victory."</b><br/>
+  <b>“下定决心，不怕牺牲，排除万难，去争取胜利。”</b>
+</div>
